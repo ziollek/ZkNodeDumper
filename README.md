@@ -17,4 +17,4 @@ Config file contains definition od servers
 
 ## Usage
 
-perl zkNodeDumper.pl -config=config.cfg -node=/service/myservice
+	perl zkNodeDumper.pl -config=config.cfg -node=/service/myservice
